@@ -1,6 +1,6 @@
 # Clean Code PHP
 
-Traduction en français de [Clean Code PHP](https://github.com/jupeter/clean-code-php) par [Jupeter](https://github.com/jupeter/). Si vous trouvez une erreur dans l'orthographe, l'écriture ou la traduction, n'hésitez pas à faire un pull request !
+ترجمة عربية لـ [Clean Code PHP](https://github.com/jupeter/clean-code-php) ل [Jupeter](https://github.com/jupeter/).  إذا وجدت خطأً في التهجئة أو الكتابة أو الترجمة ، فلا تتردد في تقديم طلب سحب!
 
 ## جدول المحتويات 
 
