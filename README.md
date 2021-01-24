@@ -2,13 +2,13 @@
 
 Traduction en français de [Clean Code PHP](https://github.com/jupeter/clean-code-php) par [Jupeter](https://github.com/jupeter/). Si vous trouvez une erreur dans l'orthographe, l'écriture ou la traduction, n'hésitez pas à faire un pull request !
 
-## Table des matières
+## جدول المحتويات 
 
-  1. [Introduction](#introduction)
-  2. [Variables](#variables)
- 	 * [Utiliser des noms de variables expressifs et prononçables](#utiliser-des-noms-de-variables-expressifs-et-prononçables)
-	 * [Utiliser le même vocabulaire pour le même type de variable](#utiliser-le-même-vocabulaire-pour-le-même-type-de-variable)
-	 * [Utiliser des noms qui peuvent être recherchés (partie 1)](#utiliser-des-noms-qui-peuvent-être-recherchés-partie-1)
+  1. [المقدمة](#introduction)
+  2. [المتغيرات](#variables)
+ 	 * [استخدم أسماء المتغيرات التعبيرية واللفظية](#utiliser-des-noms-de-variables-expressifs-et-prononçables)
+	 * [استخدم نفس المفردات لنفس النوع من المتغيرات](#utiliser-le-même-vocabulaire-pour-le-même-type-de-variable)
+	 * [استخدام الأسماء التي يمكن البحث عنها (الجزء 1)](#utiliser-des-noms-qui-peuvent-être-recherchés-partie-1)
 	 * [Utiliser des noms qui peuvent être recherchés (partie 2)](#utiliser-des-noms-qui-peuvent-être-recherchés-partie-2)
 	 * [Utiliser des variables expressives](#utiliser-des-variables-expressives)
      * [Éviter d'imbriquer trop profondément et renvoyer tôt (partie 1)](#Éviter-dimbriquer-trop-profondément-et-renvoyer-tôt-partie-1)
